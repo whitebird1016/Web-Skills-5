@@ -1,4 +1,4 @@
-# Web-Skills-with-Shikmamaru(5)
+# Web-Skills(5)
 ![Shikamaru](https://github.com/whitebird1016/Web-Skills-with-Shikmamaru/blob/main/1_HTGSqvOc52yfMwyLhCMjVA.jpeg)
 <h2>Object Skills</h2>
 <h3>1: Clone object</h3>
